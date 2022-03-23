@@ -14,7 +14,7 @@ With thoughts towards bicycle maintenance, I looked at the use of the bikes in t
 
 *Heatmaps* helped me to show the busiest times of the day for ridership. I found that--on weekdays--the ridership was busiest at rush hour. When I looked at the weekends, I saw strong usage throughout the daylight hours. These heatmaps could also show ideal times for maintenence so that high-demand times wouldn't be affected by routine maintenance.
 
-When I was done, I assembled the graphs into a *Tableau story*, adding captions and subtitles to the text to show the story of CitiBike during the month of August 2019.  ![Here is a link to the story][CitiBike Ridership story(https://public.tableau.com/shared/BZ78B7XCP?:display_count=n&:origin=viz_share_link)
+When I was done, I assembled the graphs into a *Tableau story*, adding captions and subtitles to the text to show the story of CitiBike during the month of August 2019.  ![Here is a link to the CitiBike Ridership story](https://public.tableau.com/shared/BZ78B7XCP?:display_count=n&:origin=viz_share_link)
 
 ## Summary: 
 The CitiBike data give Des Moines-area investors a solid platform from which to make decisions on a bike-sharing program. It shows the busiest times of day, and it reflects the reality that some bikes--specifically those in high-demand areas--will need to be maintained more often than others. It also shows a gender breakdown that shows real possibilities for growth if female riders are targeted by markeging.
