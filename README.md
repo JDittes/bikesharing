@@ -9,6 +9,8 @@ I enjoyed Tableau. The program graphs data beautifully, and it's pretty easy to 
 I was able to *map locations* around New York City, both for bike pick-up and bike returns. This gave me an instant understanding of the logicistics of CitiBike. Would staff be needed every evening to shuttle bikes back to origin locations, for example, or were most bikes returned to area bike stands? By comparing the two maps (and using different colors for pickup and return, I was able to get answers to this question.
 ![Map locations example](https://github.com/JDittes/bikesharing/blob/main/mapping.png)
 
+A line graph helped me to identify how much the bikes were actually used by riders. I was surprised to see the peak usage crest at 10 minutes or less. I was expecting to see rides reach 15 to 30 minutes, but this line chart changed my mind. ![line chart ridership](https://github.com/JDittes/bikesharing/blob/main/line.png)
+
 I was also able to split the data into the genders of riders. Through this study, I noticed a huge gap between male and female riders. A *pie chart* helped me to realize that almost 2/3rds of riders are men. A further *line chart*, splitting the minutes of riding also showed this gap. Such a huge discrepancy makes me think that there is a large, untapped market for CitiBike. It should invest in reaching out to female bike riders. 
 ![Pie chart](https://github.com/JDittes/bikesharing/blob/main/pie.png)
 ![Line chart riders](https://github.com/JDittes/bikesharing/blob/main/gender-line.png)
